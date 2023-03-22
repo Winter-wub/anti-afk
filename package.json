@@ -1,0 +1,12 @@
+{
+  "name": "anti-afk",
+  "module": "index.ts",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@nut-tree/nut-js": "^3.1.1"
+  },
+  "packageManager": "yarn@3.5.0"
+}
